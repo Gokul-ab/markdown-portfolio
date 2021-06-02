@@ -1,1 +1,4 @@
-followed by a space, before the content to make it an H1 Header. You can add more headers, using one to six 
+ 
+# This is an <h1> header, which is the largest
+## This is an <h2> header
+###### This is an <h6> header, which is the smallest
